@@ -1,6 +1,3 @@
-### Hi there 👋, Jari Pimiä
-#### Developer
-Future fullstack developer
 ![Screenshot](github-header-image.png)
 
 Skills: KOTLIN / C# / TYPESCRIPT / JAVA / PYTHON / REACT / JS / CSS / BOOTSTRAP
