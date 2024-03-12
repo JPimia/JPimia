@@ -2,7 +2,7 @@
 
 Skills: KOTLIN / C# / TYPESCRIPT / JAVA / PYTHON / REACT / JS / CSS / BOOTSTRAP
 
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning C# 
 - 📫 How to reach me: jari.pimiaa@gmail.com 
 - ⚡ Fun fact: Cats > Dogs 
 
