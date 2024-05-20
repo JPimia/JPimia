@@ -1,6 +1,6 @@
 ![Screenshot](github-header-image.png)
 
-Skills: KOTLIN / C# / TYPESCRIPT / JAVA / PYTHON / REACT / JS / CSS / BOOTSTRAP
+Skills: FLUTTER / KOTLIN / C# / TYPESCRIPT / JAVA / PYTHON / REACT / JS / CSS / BOOTSTRAP
 
 - 🌱 I’m currently learning Flutter 
 - 📫 How to reach me: jari.pimiaa@gmail.com 
