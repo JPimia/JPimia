@@ -2,7 +2,7 @@
 
 Skills: FLUTTER / KOTLIN / C# / TYPESCRIPT / JAVA / PYTHON / REACT / JS / CSS / BOOTSTRAP
 
-- 🌱 I’m currently learning Flutter 
+- 🌱 I’m currently learning React 
 - 📫 How to reach me: jari.pimiaa@gmail.com 
  
 
