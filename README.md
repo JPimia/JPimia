@@ -1,6 +1,6 @@
 ![Screenshot](github-header-image.png)
 
-Skills: FLUTTER / REACT / TYPESCRIPT / JAVASCRIPT / PYTHON / C# / JAVA / KOTLIN
+Skills: FLUTTER / REACT / TYPESCRIPT / JAVASCRIPT / PYTHON / C# / JAVA / KOTLIN / AWS / AZURE
 
 - 🌱 I’m currently working with React 
 - 📫 How to reach me: jari.pimiaa@gmail.com 
