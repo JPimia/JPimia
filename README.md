@@ -2,7 +2,7 @@
 
 Skills: FLUTTER / REACT / TYPESCRIPT / JAVASCRIPT / PYTHON / C# / JAVA / KOTLIN / AWS / AZURE
 
-- 🌱 I’m currently working with React 
+- 🌱 I’m currently working with ![Rust](https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg) RUST
 - 📫 How to reach me: jari.pimiaa@gmail.com 
  
 
