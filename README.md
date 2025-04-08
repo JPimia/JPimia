@@ -1,4 +1,4 @@
-![Screenshot](github-header-image.png)
+![Screenshot](github-header.png)
 
 Skills: FLUTTER / REACT / TYPESCRIPT / RUST / PYTHON / C# / JAVA / KOTLIN / AWS / AZURE
 
