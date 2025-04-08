@@ -13,6 +13,7 @@
   <img src="https://skillicons.dev/icons?i=azure" alt="Azure" title="Azure" height="40" />
 </div>
 
+
 - 🌱 I’m currently working with Rust 🦀
 - 📫 How to reach me: jari.pimiaa@gmail.com 
  
