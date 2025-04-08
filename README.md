@@ -1,6 +1,6 @@
 ![Screenshot](github-header.png)
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" title="Flutter" height="40" />
   <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" height="40" />
   <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" title="TypeScript" height="40" />
