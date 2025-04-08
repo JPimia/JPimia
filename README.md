@@ -1,6 +1,6 @@
 ![Screenshot](github-header.png)
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
   <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" title="Flutter" height="40" />
   <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" height="40" />
   <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" title="TypeScript" height="40" />
@@ -11,7 +11,6 @@
   <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" title="Kotlin" height="40" />
   <img src="https://skillicons.dev/icons?i=aws" alt="AWS" title="AWS" height="40" />
   <img src="https://skillicons.dev/icons?i=azure" alt="Azure" title="Azure" height="40" />
-</br>
 </div>
 
 
